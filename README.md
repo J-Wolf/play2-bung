@@ -1,5 +1,6 @@
 # 
 https://gitlab.beyondit.at/martin.schipflinger/klausur_web15_2<br>
+https://www.playframework.com/documentation/2.6.x/JavaEbean#Configuring-the-sbt-plugin<br>
 1.<br>
 Runterladen Scala, XAMPP, sbt und alle unter plugins installieren<br>
 
